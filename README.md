@@ -15,7 +15,7 @@ It combines the ability to scale out with features such as secondary indexes, ra
 
 What are some features of MongoDB ?
 
-Indexing - It supports generic s
+Indexing - It supports generic secondary indexes and provide unique , compound , geospatial and full-text indexing capabilities as well. 
 Aggregation - It supports an aggregation framework based on the concept of data processing pipelines
 Special COllection and index types : It supports time-to-live (TTL) collections for data that should expire at a certain time.
 File Storage : supports an easy-to-use protocol for storing large files and file metadata
