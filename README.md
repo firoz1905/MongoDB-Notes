@@ -13,7 +13,7 @@ Mongo Shell - It is a JS shell that allows to interact with MongoDB instance fro
 It combines the ability to scale out with features such as secondary indexes, range queries, sorting, aggregations, and geospatial indexes
 
 
-What are some features of MongoDB ?
+** What are some features of MongoDB ?
 
 Indexing - It supports generic secondary indexes and provide unique , compound , geospatial and full-text indexing capabilities as well. 
 
@@ -25,8 +25,8 @@ File Storage : supports an easy-to-use protocol for storing large files and file
 
 Sharding : process of splitting up data across machines
 
-CRUD operations in MongoDB ?
 
+*** CRUD operations in MongoDB ?
 
 UPDATE Methods : updateOne , updateMany , replaceOne , updateOne , updateMany . Each of this method takes a filter document as their first parameter and a amodifier document , which describes changes to make as a the second paramter. 
 
